@@ -17,17 +17,6 @@
 2021년 7월 23일 ~ 2021년 9월 02일
 
 
-## 👥 개발 인원
-- 이용우 (Node.js) [팀장] @ [archepro84](https://github.com/archepro84)
-- 이해웅 (Node.js) @ [HW3542](https://github.com/HW3542)
-- 임관식 (Node.js) @ [gwansiklim](https://github.com/gwansiklim)
-- 주재인 (React) @ [joonior99](https://github.com/joonior99)
-- 황준연 (React) @ [yoojin-kim90](https://github.com/yoojin-kim90)
-- 김유진 (React) @ [demian0721](https://github.com/demian0721)
-- 서정화 (디자이너)
-- 정지우 (디자이너)
-
-
 ## 🛠 기술스택
 
 Front | Back
